@@ -1,0 +1,6 @@
+01:39:04 **** Incremental Build of configuration Default for project sumaJNI3 ****
+/home/nico/Downloads/android-ndk-r10b/ndk-build all 
+[armeabi] Install        : libNative.so => libs/armeabi/libNative.so
+
+01:39:05 Build Finished (took 749ms)
+

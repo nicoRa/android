@@ -1,0 +1,11 @@
+ddms.logcat.auotmonitor.level=error
+ddms.logcat.automonitor.userprompt=true
+eclipse.preferences.version=1
+logcat.view.colsize.Application=169
+logcat.view.colsize.Level=58
+logcat.view.colsize.PID=54
+logcat.view.colsize.TID=54
+logcat.view.colsize.Tag=125
+logcat.view.colsize.Text=678
+logcat.view.colsize.Time=156
+logcat.view.filters.list=name\: 's', tag\: 'main', text\: '', pid\: '', app\: '', level\: 'verbose', name\: 'com.example.sumajni3 (Session Filter)', tag\: '', text\: '', pid\: '', app\: 'com.example.sumajni3', level\: 'verbose', 

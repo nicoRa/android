@@ -1,0 +1,15 @@
+package com.example.sumajni3;
+
+public class Native {
+	
+	
+	static {
+		
+		System.loadLibrary("ndk_demo");
+	
+	}
+	
+	public native int add( int v1, int v2 );
+	
+
+}

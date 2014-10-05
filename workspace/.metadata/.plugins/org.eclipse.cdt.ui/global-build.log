@@ -1,0 +1,49 @@
+19:37:17 **** Build of configuration Default for project sumaJNI3 ****
+/home/nico/Downloads/android-ndk-r10b/ndk-build all 
+[armeabi] Compile++ thumb: Native <= Native.cpp
+[armeabi] StaticLibrary  : libstdc++.a
+[armeabi] SharedLibrary  : libNative.so
+[armeabi] Install        : libNative.so => libs/armeabi/libNative.so
+19:38:31 **** Incremental Build of configuration Default for project sumaJNI3 ****
+/home/nico/Downloads/android-ndk-r10b/ndk-build all 
+[armeabi] Install        : libNative.so => libs/armeabi/libNative.so
+19:51:43 **** Incremental Build of configuration Default for project sumaJNI3 ****
+/home/nico/Downloads/android-ndk-r10b/ndk-build all 
+[armeabi] Install        : libNative.so => libs/armeabi/libNative.so
+19:53:34 **** Incremental Build of configuration Default for project sumaJNI3 ****
+/home/nico/Downloads/android-ndk-r10b/ndk-build all 
+[armeabi] Install        : libNative.so => libs/armeabi/libNative.so
+19:58:18 **** Incremental Build of configuration Default for project sumaJNI3 ****
+/home/nico/Downloads/android-ndk-r10b/ndk-build all 
+[armeabi] Install        : libNative.so => libs/armeabi/libNative.so
+20:20:21 **** Incremental Build of configuration Default for project sumaJNI3 ****
+/home/nico/Downloads/android-ndk-r10b/ndk-build all 
+[armeabi] Install        : libNative.so => libs/armeabi/libNative.so
+23:17:09 **** Build of configuration Default for project sumaJNI3 ****
+/home/nico/Downloads/android-ndk-r10b/ndk-build all 
+[armeabi] Install        : libNative.so => libs/armeabi/libNative.so
+00:55:32 **** Incremental Build of configuration Default for project sumaJNI3 ****
+/home/nico/Downloads/android-ndk-r10b/ndk-build all 
+[armeabi] Install        : libNative.so => libs/armeabi/libNative.so
+
+**** Build of configuration Debug for project Native ****
+
+Nothing to build for project Native
+01:00:23 **** Incremental Build of configuration Default for project sumaJNI3 ****
+/home/nico/Downloads/android-ndk-r10b/ndk-build all 
+[armeabi] Install        : libNative.so => libs/armeabi/libNative.so
+01:10:09 **** Incremental Build of configuration Default for project sumaJNI3 ****
+/home/nico/Downloads/android-ndk-r10b/ndk-build all 
+[armeabi] Install        : libNative.so => libs/armeabi/libNative.so
+01:32:14 **** Incremental Build of configuration Default for project sumaJNI3 ****
+/home/nico/Downloads/android-ndk-r10b/ndk-build all 
+[armeabi] Install        : libNative.so => libs/armeabi/libNative.so
+01:35:10 **** Incremental Build of configuration Default for project sumaJNI3 ****
+/home/nico/Downloads/android-ndk-r10b/ndk-build all 
+[armeabi] Install        : libNative.so => libs/armeabi/libNative.so
+01:37:05 **** Incremental Build of configuration Default for project sumaJNI3 ****
+/home/nico/Downloads/android-ndk-r10b/ndk-build all 
+[armeabi] Install        : libNative.so => libs/armeabi/libNative.so
+01:39:04 **** Incremental Build of configuration Default for project sumaJNI3 ****
+/home/nico/Downloads/android-ndk-r10b/ndk-build all 
+[armeabi] Install        : libNative.so => libs/armeabi/libNative.so
